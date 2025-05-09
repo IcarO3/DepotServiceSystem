@@ -1,2 +1,2 @@
 # DepotServiceSystem
-The Depot Service System is a Java application designed to manage parcel collections in a depot environment. 
+The Depot Service System is a Java application designed to manage parcel collections in a depot environment. it features a three teir  architecture with a  Swing-based GUI (Presentation Layer), business logic for processing queues and calculating fees (Business Layer),  and file- based data storage (Data Layer). The  system supports customer  queue management, parcel status tracking, and fee  calculations while adhering to MVC patterns and Singleton logging, fullfilling all requirements for functionality and design. 
